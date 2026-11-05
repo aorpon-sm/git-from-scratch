@@ -8,3 +8,5 @@ Documenting my journey of learning Git and GitHub through hands-on practice, com
 - [ ] Learn how to resolve merge conflicts
 - [ ] Work with GitHub repositories
 - [ ] Practice collaboration using GitHub
+<br>
+Author - Sazem Mahmud Aorpon
